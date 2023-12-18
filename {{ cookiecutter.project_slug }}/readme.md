@@ -25,6 +25,8 @@ mamba env create -f environment.yml
 activate {{ cookiecutter.project_slug }}
 ```
 
+
+
 ## Project organization
 
     {{ cookiecutter.project_slug }}
